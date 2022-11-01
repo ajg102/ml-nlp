@@ -1,0 +1,180 @@
+[
+    {
+        "text": "Individual session with C. Smith. To gain insight into sources of her anxiety and develop skills for managing anxiety. C & I talked about three most intense anxiety episodes during week. Identified the potential triggers for her anxiety and the strategies that she used to manage her anxiety. We discovered that she typically waits too long to begin deep breathing exercises. C will journal the immediate precursors and triggers for episodes. She will use deep breathing to calm down and control escalation of anxiety. She can take PRN med, Xanax, if episode lasts more than 20 minutes.",
+        "outcome": "pass",
+        "reason": 0
+    },
+    {
+        "text": "Met with CS and her mother, BT, for family counseling. Gain insight into sources of C’s anxiety and work on coping. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. Journal precursors and triggers. Practice deep breathing. Take PRN med if episode more than 20 mins.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"65 minute IS with Celeste. Sources of anxiety and coping. 3 most intense episodes for week discussed. Triggers and strategies identified. Deep breathing typically started too late. . Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"Ad hoc telephone call with C for 25 minutes. Anxiety management. Using three most intensive episodes for week, identified triggers and strategies used. She typically waits too long to start deep breathing exercises. Precursors and triggers will be journaled. Deep breathing will be practices. PRN anti-anxiety med taken if episode more than 20 mins.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"FC w/ CS & mother-BT. To work on implementing daily routines to improve mood and self-care. Topics discussed: current daily routine; lack of self-care activities; lack of boundaries between work and personal time; gaps in daily routine. C needs more structure in daily routine. Schedule of daily routines for next session.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"CS IS-60 mins. Work on daily routines. Improve mood and self-care. Outlined with C her current daily routine. Pointed out basic self-care activities that do not occur on routine basis and the lack of boundaries between work and personal time. We identified gaps in her daily routine where more structure is needed. C will develop daily schedule for next session that includes: hygiene, meals, work hours and relaxation/leisure time.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"Celeste & Betty FC. Daily routines. Daily routines, mood and self-care. Outlined daily routine. Pointed out lack of self-care activities and boundaries between work and personal time. Identified gaps in daily routine—more structure needed. Develop daily schedule for next session.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text":"CS IS. To explore triggers for anger & strategies for managing. Current daily routine outlined. Lack of self-care activities and boundaries between work and personal time pointed out. Gaps in daily routine identified. More structure needed. Next session: schedule of daily routines (ex. hygiene, meals, work, leisure, etc.).",
+        "outcome":"pass",
+        "reason": 0
+    },
+    
+    {
+        "text":"Celeste IS. Explore triggers and mgmt strategies. Discussed her anger episodes during week. Identified the potential triggers for anger and management strategies used. Discovered that she is not redirecting. Ruminates on person/events that caused episode. Gave Widener template to log anger triggers, strategies and their success.",
+        "outcome":"pass",
+        "reason": 0
+    },
+    {
+        "text": "IS w/ Celeste. Anger episodes during week discussed. Potential triggers and management strategies identified. Redirection is not occurring. Rumination on person/events that caused episode. Identify and log potential triggers; log strategies; judge success.",
+        "outcome": "pass",
+        "reason": 0
+    },
+    {
+        "text": "Individual session. To explore triggers for anger & strategies for managing. Current daily routine outlined. Lack of self-care activities and boundaries between work and personal time pointed out. Gaps in daily routine identified. More structure needed. Next session: schedule of daily routines (ex. hygiene, meals, work, leisure, etc.).",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "Met with CS for family counseling. To explore triggers for anger & strategies for managing. Current daily routine outlined. Lack of self-care activities and boundaries between work and personal time pointed out. Gaps in daily routine identified. More structure needed. Next session: schedule of daily routines (ex. hygiene, meals, work, leisure, etc.).",
+        "outcome": "fail",
+        "reason": 2
+    },
+    {
+        "text": "65 minutes. Daily routines. Daily routines, mood and self-care. Outlined daily routine. Pointed out lack of self-care activities and boundaries between work and personal time. Identified gaps in daily routine—more structure needed. Develop daily schedule for next session.",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "Ad hoc telephone call for 25 minutes. Daily routines. Daily routines, mood and self-care. Outlined daily routine. Pointed out lack of self-care activities and boundaries between work and personal time. Identified gaps in daily routine—more structure needed. Develop daily schedule for next session.",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "CS & mother-BT. To work on implementing daily routines to improve mood and self-care. Topics discussed: current daily routine; lack of self-care activities; lack of boundaries between work and personal time; gaps in daily routine. C needs more structure in daily routine. Schedule of daily routines for next session.",
+        "outcome": "fail",
+        "reason": 3
+    },
+    {
+        "text": "IS-60 mins. To work on implementing daily routines to improve mood and self-care. Topics discussed: current daily routine; lack of self-care activities; lack of boundaries between work and personal time; gaps in daily routine. C needs more structure in daily routine. Schedule of daily routines for next session.",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "IS. Gain insight into sources of C’s anxiety and work on coping. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. Journal precursors and triggers. Practice deep breathing. Take PRN med if episode more than 20 mins.",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "CS. Gain insight into sources of C’s anxiety and work on coping. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. Journal precursors and triggers. Practice deep breathing. Take PRN med if episode more than 20 mins.",
+        "outcome": "fail",
+        "reason": 3
+    },
+    {
+        "text": "CS & BT. Sources of anxiety and coping. 3 most intense episodes for week discussed. Triggers and strategies identified. Deep breathing typically started too late. . Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome": "fail",
+        "reason": 3
+    },
+    {
+        "text": "Celeste. Sources of anxiety and coping. 3 most intense episodes for week discussed. Triggers and strategies identified. Deep breathing typically started too late. . Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome": "fail",
+        "reason": 3
+    },
+    {
+        "text": "IS w/. Sources of anxiety and coping. 3 most intense episodes for week discussed. Triggers and strategies identified. Deep breathing typically started too late. . Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome": "fail",
+        "reason": 1
+    },
+    {
+        "text": "IS w/ Celeste. To gain insight. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. C will journal the immediate precursors and triggers for episodes. She will use deep breathing to calm down and control escalation of anxiety. She can take PRN med, Xanax, if episode lasts more than 20 minutes.",
+        "outcome": "fail",
+        "reason": 4
+    },
+    
+    {
+        "text": "IS w/ Celeste. Work on implementation. C will journal the immediate precursors and triggers for episodes. She will use deep breathing to calm down and control escalation of anxiety. She can take PRN med, Xanax, if episode lasts more than 20 minutes.",
+        "outcome": "fail",
+        "reason": 4
+    },
+    {
+        "text": "IS w/ Celeste. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins. C needs more structure in daily routine. C will develop daily schedule for next session that includes: hygiene, meals, work hours and relaxation/leisure time.",
+        "outcome": "fail",
+        "reason": 5
+    },
+    {
+        "text": "IS w/ Celeste. Topics discussed: current daily routine; lack of self-care activities; lack of boundaries between work and personal time; gaps in daily routine. C will develop daily schedule for next session that includes: hygiene, meals, work hours and relaxation/leisure time.",
+        "outcome": "fail",
+        "reason": 5
+    },
+    {
+        "text": "IS w/ Celeste. Gain insight into sources of C’s anxiety and work on coping. Discussed 3 most intense episodes for week. Identified discovered deep breathing begins too late. Journal precursors and triggers. Practice deep breathing. Take PRN med if episode more than 20 mins.",
+        "outcome": "fail",
+        "reason": 6
+    },
+    {
+        "text": "IS w/ Celeste. Work on daily routines. Improve mood and self-care. Current daily routine outlined; identified lack of; pointed out gaps in daily routine. Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome": "fail",
+        "reason": 6
+    },
+    {
+        "text": "IS w/ Celeste. Work on daily routines. Improve mood and self-care. More structure needed. She has large gaps in her daily routine where there is down time. Down time is not good for C. Journal precursors and triggers; practice deep breaking; take PRN med if lasts > 20 mins.",
+        "outcome": "fail",
+        "reason": 7
+    },
+    {
+        "text": "IS w/ Celeste. To gain insight into sources of her anxiety and develop skills for managing anxiety. Journal precursors and triggers. Practice deep breathing. Take PRN med if episode more than 20 mins.",
+        "outcome": "fail",
+        "reason": 7
+    },
+    {
+        "text": "IS w/ Celeste. To work on implementing daily routines to improve mood and self-care. C will develop daily schedule for next session that includes: hygiene, meals, work hours and relaxation/leisure time.",
+        "outcome": "fail",
+        "reason": 7
+    },
+    {
+        "text": "IS w/ Celeste. To gain insight into sources of her anxiety and develop skills for managing anxiety. Using three most intensive episodes for week, identified triggers and strategies used. She typically waits too long to start deep breathing exercises. Journal.",
+        "outcome": "fail",
+        "reason": 8
+    },
+    
+    {
+        "text": "IS w/ Celeste. To explore triggers for anger & strategies for managing. Discussed her anger episodes during week. Identified the potential triggers for anger and management strategies used. Discovered that she is not redirecting. Ruminates on person/events that caused episode. Schedule.",
+        "outcome": "fail",
+        "reason": 8
+    },
+    {
+        "text": "IS w/ Celeste. To explore triggers for anger & strategies for managing. Discussed her anger episodes during week. Identified the potential triggers for anger and management strategies used. Discovered that she is not redirecting. Ruminates on person/events that caused episode. Widener log.",
+        "outcome": "fail",
+        "reason": 8
+    },
+    {
+        "text": "IS w/ Celeste. Daily routines, mood and self-care. Using three most intensive episodes for week, identified triggers and strategies used. She typically waits too long to start deep breathing exercises.",
+        "outcome": "fail",
+        "reason": 9
+    },
+    {
+        "text": "IS w/ Celeste. To work on implementing daily routines to improve mood and self-care. Current daily routine outlined. Lack of self-care activities and boundaries between work and personal time pointed out. Gaps in daily routine identified. More structure needed.",
+        "outcome": "fail",
+        "reason": 9
+    }
+]

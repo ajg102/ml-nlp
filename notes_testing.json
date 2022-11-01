@@ -1,0 +1,17 @@
+[
+    {
+        "text": "IS w/ Celeste. To gain insight into sources of her anxiety and develop skills for managing anxiety. Using three most intensive episodes for week, identified triggers and strategies used. She typically waits too long to start deep breathing exercises. Journal precursors and triggers; practice; and take PRN med if episode more than 20 minutes.",
+        "outcome": "fail",
+        "reason": 8
+    },
+    {
+        "text": "IS w/ Celeste. Gain insight. Discussed 3 most intense episodes for week. Identified potential triggers and strategies used. Discovered begins deep breathing too late. C will journal the immediate precursors and triggers for episodes. She will use deep breathing to calm down and control escalation of anxiety. She can take PRN med, Xanax, if episode lasts more than 20 minutes.",
+        "outcome": "fail",
+        "reason": 4
+    },
+    {
+        "text":"CS & BT (mother)-FC. Anger triggers and management. C & I discussed her anger episodes during week. Identified the potential triggers for her anger and the strategies that she used to manager her anger. We discovered that she is not using the redirection strategy and instead ruminates on the person/events that caused her episode. C will identify and keep log of potential triggers for anger. She will log the strategies that she employed to manage her anger in the moment and whether or not they were successful. Gave C the Widener template for her log.",
+        "outcome":"pass",
+        "reason": 0
+    }
+]
